@@ -25,3 +25,4 @@ Encoding of data for communication for on/off particular Equipment:
 - And consume power between 0.07A and 0.30A
 
 # FlowChart of Project:
+![flowchart](https://user-images.githubusercontent.com/65846613/124241184-27a9f280-db39-11eb-8ab0-4c99ec695eba.png)
