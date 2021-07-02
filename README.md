@@ -14,6 +14,8 @@ Home automation system android application
 
 Encoding of data for communication for on/off particular Equipment:
 
+![message_encoding](https://user-images.githubusercontent.com/65846613/124241326-49a37500-db39-11eb-83fa-d973f49a9b92.jpg)
+
 
 # The hardware required while making the project is:
 - Arduino Uno
