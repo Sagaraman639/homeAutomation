@@ -16,6 +16,10 @@ Encoding of data for communication for on/off particular Equipment:
 
 ![message_encoding](https://user-images.githubusercontent.com/65846613/124241326-49a37500-db39-11eb-83fa-d973f49a9b92.jpg)
 
+# Screen Short
+![WhatsApp Image 2021-07-06 at 2 40 59 PM](https://user-images.githubusercontent.com/65846613/124575460-0b73c180-de69-11eb-8e69-6b4c8d938383.jpeg)
+
+
 
 # The hardware required while making the project is:
 - Arduino Uno
