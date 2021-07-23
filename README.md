@@ -16,6 +16,7 @@ Home automation system android application
 
 # Screen Short
 ![ss1](https://user-images.githubusercontent.com/65846613/126746707-7badc8cd-d419-4e60-84c4-22765b52ea6d.png)
+![ss2](https://user-images.githubusercontent.com/65846613/126746750-0f29f091-32fd-4df6-86fb-fd978c02ace0.png)
 
 
 
